@@ -1,0 +1,21 @@
+<resources>
+
+
+    <string name="app_name">Weather</string>
+
+    <string name="only_for_test"></string>
+
+    <string name="please_wait">Please wait…</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="km_per_hour">km/hr</string>
+    <string name="sunrise">Sunrise time</string>
+    <string name="sunset">Sunset time</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="pressure">Pressure</string>
+    <string name="current_condition">Current Condition</string>
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="main_content_padding_progress_dialog">11dp</dimen>
+    <dimen name="progress_bar_size">51dp</dimen>
+    <dimen name="progress_bar_marginEnd">11dp</dimen>
+    <dimen name="progress_bar_text_size">16sp</dimen>
+
+
+    <dimen name="main_screen_content_padding">3dp</dimen>
+    <dimen name="ll_to__ll_padding">7dp</dimen>
+    <dimen name="card_view_marginStartEnd">5dp</dimen>
+    <dimen name="card_view_marginTop">11dp</dimen>
+    <dimen name="card_view_corner_radius">11dp</dimen>
+    <dimen name="card_view_elevation">5dp</dimen>
+    <dimen name="card_view_content_padding">9dp</dimen>
+    <dimen name="main_image_size">75dp</dimen>
+    <dimen name="identification_image_size">51dp</dimen>
+    <dimen name="identification_image_marginEnd">7dp</dimen>
+    <dimen name="value_text_size">18sp</dimen>
+    <dimen name="label_text_size">16sp</dimen>
+    <dimen name="sunset_marginStart">21dp</dimen>
+    <dimen name="sunrise_sunset_marginEnd">11dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="divider_margin">11dp</dimen>
+
+
+
+</resources>
